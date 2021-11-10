@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dhzychko
-- 👀 I’m interested in PHP, JS
+- 👀 I’m interested in PHP, JS, CSS, BEM
 
 <!---
 dhzychko/dhzychko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
